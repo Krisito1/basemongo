@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e001"
+  },
+  "nombre": "Electrónica"
+},
+{
+  "_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e002"
+  },
+  "nombre": "Papelería"
+}]

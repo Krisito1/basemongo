@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6881121c5cf6fe11464d6a89"
+  },
+  "producto_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3c001"
+  },
+  "usuario_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3d001"
+  },
+  "tipo": "entrada",
+  "cantidad": 20,
+  "fecha": {
+    "$date": "2025-07-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6881121c5cf6fe11464d6a8a"
+  },
+  "producto_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3c002"
+  },
+  "usuario_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3d001"
+  },
+  "tipo": "salida",
+  "cantidad": 5,
+  "fecha": {
+    "$date": "2025-07-21T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6881121c5cf6fe11464d6a8b"
+  },
+  "producto_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3c003"
+  },
+  "usuario_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3d002"
+  },
+  "tipo": "entrada",
+  "cantidad": 10,
+  "fecha": {
+    "$date": "2025-07-22T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6881121c5cf6fe11464d6a8c"
+  },
+  "producto_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3c001"
+  },
+  "usuario_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3d003"
+  },
+  "tipo": "salida",
+  "cantidad": 3,
+  "fecha": {
+    "$date": "2025-07-23T11:45:00.000Z"
+  }
+}]

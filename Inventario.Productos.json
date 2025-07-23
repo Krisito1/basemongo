@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "68811c9209fdce0e7080c0b6"
+  },
+  "nombre": "Papel bond tamaño carta (500 hojas)",
+  "precio": 4.25,
+  "cantidad": 60,
+  "categoria_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e002"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b793"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811c9209fdce0e7080c0b7"
+  },
+  "nombre": "Carpeta plástica tamaño oficio",
+  "precio": 1.1,
+  "cantidad": 120,
+  "categoria_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e002"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b793"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811c9209fdce0e7080c0b8"
+  },
+  "nombre": "Corrector líquido Pelikan",
+  "precio": 0.95,
+  "cantidad": 90,
+  "categoria_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e002"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b793"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811c9209fdce0e7080c0b9"
+  },
+  "nombre": "Notas adhesivas Post-it 3x3",
+  "precio": 1.5,
+  "cantidad": 75,
+  "categoria_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e002"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b793"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811c9209fdce0e7080c0ba"
+  },
+  "nombre": "Marcadores permanentes Sharpie (pack de 4)",
+  "precio": 3.99,
+  "cantidad": 40,
+  "categoria_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e002"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b793"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811cd209fdce0e7080c0bb"
+  },
+  "nombre": "Laptop HP Pavilion 15",
+  "precio": 599.99,
+  "cantidad": 12,
+  "categoria_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3a456"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b789"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811cd209fdce0e7080c0bc"
+  },
+  "nombre": "Teclado inalámbrico Logitech K380",
+  "precio": 39.99,
+  "cantidad": 30,
+  "categoria_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3a457"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b790"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811cd209fdce0e7080c0bd"
+  },
+  "nombre": "Monitor LG 27'' Full HD",
+  "precio": 179.99,
+  "cantidad": 8,
+  "categoria_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3a458"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b791"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811cd209fdce0e7080c0be"
+  },
+  "nombre": "Disco SSD Kingston 480GB",
+  "precio": 54.99,
+  "cantidad": 25,
+  "categoria_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3a459"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b792"
+  }
+},
+{
+  "_id": {
+    "$oid": "68811cd209fdce0e7080c0bf"
+  },
+  "nombre": "Mouse gamer Redragon M601",
+  "precio": 24.99,
+  "cantidad": 40,
+  "categoria_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3a457"
+  },
+  "proveedor_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b792"
+  }
+}]

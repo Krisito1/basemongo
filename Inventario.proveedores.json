@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e101"
+  },
+  "nombre": "Ofimax"
+},
+{
+  "_id": {
+    "$oid": "64c9c01e3b6f34a7b5a7e102"
+  },
+  "nombre": "Tecnología Total"
+},
+{
+  "_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b789"
+  },
+  "nombre": "TechDistribuciones S.A."
+},
+{
+  "_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b790"
+  },
+  "nombre": "Logitech Guatemala"
+},
+{
+  "_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b791"
+  },
+  "nombre": "Samsung Centroamérica"
+},
+{
+  "_id": {
+    "$oid": "64b7f2c9e1a4f5a1d2c3b792"
+  },
+  "nombre": "Redragon LATAM"
+}]

@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "68811382ebc33f806ff1568a"
+  },
+  "nombre": "Cristian Girón",
+  "rol": "administrador"
+},
+{
+  "_id": {
+    "$oid": "68811382ebc33f806ff1568b"
+  },
+  "nombre": "María López",
+  "rol": "vendedor"
+},
+{
+  "_id": {
+    "$oid": "68811382ebc33f806ff1568c"
+  },
+  "nombre": "Carlos Pérez",
+  "rol": "inventario"
+},
+{
+  "_id": {
+    "$oid": "6881152bebc33f806ff15695"
+  },
+  "nombre": "Jorge Castillo",
+  "rol": "vendedor"
+},
+{
+  "_id": {
+    "$oid": "6881152bebc33f806ff15696"
+  },
+  "nombre": "Elena Cruz",
+  "rol": "administrador"
+},
+{
+  "_id": {
+    "$oid": "6881152bebc33f806ff15697"
+  },
+  "nombre": "Daniela Méndez",
+  "rol": "inventario"
+},
+{
+  "_id": {
+    "$oid": "6881152bebc33f806ff15698"
+  },
+  "nombre": "Fernando Ruiz",
+  "rol": "vendedor"
+}]

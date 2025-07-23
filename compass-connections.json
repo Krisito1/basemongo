@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "1a13fc3e-e507-4a78-8ccd-fa06f8e699fb",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1753274940890"
+        }
+      },
+      "favorite": {
+        "name": "cluster1.blbgoia.mongodb.net",
+        "color": "color8"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://cristiangironxd:Guatemala2025@cluster1.blbgoia.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
