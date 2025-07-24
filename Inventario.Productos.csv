@@ -1,0 +1,14 @@
+_id,nombre,precio,cantidad,categoria_id,proveedor_id
+68811c9209fdce0e7080c0b6,Papel bond tamaño carta (500 hojas),4.25,60,64c9c01e3b6f34a7b5a7e002,64b7f2c9e1a4f5a1d2c3b793
+68811c9209fdce0e7080c0b7,Carpeta plástica tamaño oficio,1.1,120,64c9c01e3b6f34a7b5a7e002,64b7f2c9e1a4f5a1d2c3b793
+68811c9209fdce0e7080c0b8,Corrector líquido Pelikan,0.95,90,64c9c01e3b6f34a7b5a7e002,64b7f2c9e1a4f5a1d2c3b793
+68811c9209fdce0e7080c0b9,Notas adhesivas Post-it 3x3,1.5,75,64c9c01e3b6f34a7b5a7e002,64b7f2c9e1a4f5a1d2c3b793
+68811c9209fdce0e7080c0ba,Marcadores permanentes Sharpie (pack de 4),3.99,40,64c9c01e3b6f34a7b5a7e002,64b7f2c9e1a4f5a1d2c3b793
+68811cd209fdce0e7080c0bb,Laptop HP Pavilion 15,599.99,12,64b7f2c9e1a4f5a1d2c3a456,64b7f2c9e1a4f5a1d2c3b789
+68811cd209fdce0e7080c0bc,Teclado inalámbrico Logitech K380,39.99,30,64b7f2c9e1a4f5a1d2c3a457,64b7f2c9e1a4f5a1d2c3b790
+68811cd209fdce0e7080c0bd,Monitor LG 27'' Full HD,179.99,8,64b7f2c9e1a4f5a1d2c3a458,64b7f2c9e1a4f5a1d2c3b791
+68811cd209fdce0e7080c0be,Disco SSD Kingston 480GB,54.99,25,64b7f2c9e1a4f5a1d2c3a459,64b7f2c9e1a4f5a1d2c3b792
+68811cd209fdce0e7080c0bf,Mouse gamer Redragon M601,24.99,40,64b7f2c9e1a4f5a1d2c3a457,64b7f2c9e1a4f5a1d2c3b792
+64c9f1f2e4b0f5a1d2e4a201,Monitor 24'' Full HD,149.99,30,64c9f1f2e4b0f5a1d2e4b101,64c9f1f2e4b0f5a1d2e4c301
+64c9f1f2e4b0f5a1d2e4a202,Auriculares Bluetooth,39.95,75,64c9f1f2e4b0f5a1d2e4b102,64c9f1f2e4b0f5a1d2e4c302
+64c9f1f2e4b0f5a1d2e4a203,Cargador USB-C 20W,18.5,100,64c9f1f2e4b0f5a1d2e4b103,64c9f1f2e4b0f5a1d2e4c303
